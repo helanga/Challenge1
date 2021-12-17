@@ -29,27 +29,27 @@ Using the Kickstarter data set visualize campaign outcomes based on it's launch 
 ### Analysis of Outcomes Based on GOals
 - In the Kickstarter workbook,I created a new sheet and lebel it "Outcomes Based on Goald."
 In the new sheet,create the following columns to hold the data:
- - Goal
- - Number Successful
- - Number Failed
- - Number Canceled
- - Total Projects
- - Precentage Successful
- - Precentage Failed
- - Precentage Canceled
+  - Goal
+  - Number Successful
+  - Number Failed
+  - Number Canceled
+  - Total Projects
+  - Precentage Successful
+  - Precentage Failed
+  - Precentage Canceled
  
 - In the "Goal" column,created amount ranges as per belpw
- - Less than 1000
- - 1000 to 4999
- - 5000 to 9999
- - 10000 to 14999
- - 15000 to 19999
- - 20000 to 24999
- - 25000 to 29999
- - 30000 to 34999
- - 35000 to 39999
- - 40000 to 44999
- - Greater than 50000
+  - Less than 1000
+  - 1000 to 4999
+  - 5000 to 9999
+  - 10000 to 14999
+  - 15000 to 19999
+  - 20000 to 24999
+  - 25000 to 29999
+  - 30000 to 34999
+  - 35000 to 39999
+  - 40000 to 44999
+  - Greater than 50000
 -I used COUNTIFS() function to calaculate the "Number Successful","Number Failed" and "Number Canceled",on the "goal amount" column for the created ranges,and on the Subcatogery" column using "plays" as criteria.
  
    i.e: =COUNTIFS(kickstater!$D:$D,"<1000",kickstarter!$F:$F,"successfu[l",;kickstarter!$R:$R,"plays")
