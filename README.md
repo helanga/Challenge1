@@ -38,5 +38,16 @@ In the new sheet,create the following columns to hold the data:
  - Precentage Failed
  - Precentage Canceled
  
--In 
+-In the "Goal" column,created amount ranges as per belpw
+ -Less than 1000
+ -1000 to 4999
+ -5000 to 9999
+ -10000 to 14999
+ -15000 to 19999
+ -20000 to 24999
+ -25000 to 29999
+ -30000 to 34999
+ -35000 to 39999
+ -40000 to 44999
+  -Greater than 50000
  
