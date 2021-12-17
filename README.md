@@ -23,3 +23,4 @@ Using the Kickstarter data set visualize campaign outcomes based on it's launch 
 - then filter the column labels to show only "successful","failed" and "canceled"
 
 ![](C:\Helanga\classwork\Assignment1\Resources\images\Theoter_Outcomes_vsLaunch.png)
+-Finally created the
