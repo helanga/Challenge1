@@ -23,7 +23,8 @@ Using the Kickstarter data set visualize campaign outcomes based on it's launch 
 - then filter the column labels to show only "successful","failed" and "canceled"
 
 ![](images/dil1pivot.PNG)
--Finally created a line chart from the pivot table to visualize the relationship between outcomes and launch month.
+
+- Finally created a line chart from the pivot table to visualize the relationship between outcomes and launch month.
 ![](images/Theoter_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
