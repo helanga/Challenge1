@@ -75,7 +75,7 @@ In the new sheet,create the following columns to hold the data:
  ## Results
  
   ### Conclutions about the Outcomes based on Launch Date
-  This Pivot table created based on Parent catogery "Theoter",it shows in the graph successful rate in months MAy to July and lowest successful rate end - begining (Jan,Dec) of year piriord.
+  This Pivot table created based on Parent catogery "Theoter",it shows in the graph highest successful rate in months MAy to July and lowest successful rate end - begining (Jan,Dec) of year piriord.
   
   #### Conclutions
   - There is higher posibility ti success the play in May-July time piriord.
