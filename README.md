@@ -65,4 +65,4 @@ In the new sheet,create the following columns to hold the data:
 #### Diliverable 1
 Chalenge is how to pull month from launch date,I reffered bellow URL to group by launch date field by month.
 
-  [](https://trumpexcel.com/group-dates-in-pivot-tables-excel/).
+  [link to group by launch date](https://trumpexcel.com/group-dates-in-pivot-tables-excel/).
