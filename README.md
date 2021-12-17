@@ -85,7 +85,7 @@ In the new sheet,create the following columns to hold the data:
   -If the Goal amount in range of less than 1000 and between 1000 to 4999 to successful precentage is 76% and 73% and canceled precentage is 24% and 27%.
   
   #### Conclution
-   we can conclude that if goal amount is low precentage of success is higher according to the this dataset.
+   We can conclude that if goal amount is low precentage of success is higher according to the this dataset.
    
    
 ## Limitations of this dataset
