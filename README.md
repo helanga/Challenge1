@@ -63,13 +63,13 @@ In the new sheet,create the following columns to hold the data:
 
 ### Challenge and Difficulties Encountered
 
-#### Diliverable 1
-Chalenge is how to pull month from launch date,I reffered bellow URL to group by launch date field by month.
+ #### Diliverable 1
+  Chalenge is how to pull month from launch date,I reffered bellow URL to group by launch date field by month.
 
   [link to group by launch date](https://trumpexcel.com/group-dates-in-pivot-tables-excel/).
 
-### Diliverable 2
- When doing Outcome vs Goal challenge,some counts came wrong because I used ">1000 and < 4999" in count if function,so I corrected it as >=1000 and <=4999.Got right counts after the correction.
+#### Diliverable 2
+  When doing Outcome vs Goal challenge,some counts came wrong because I used ">1000 and < 4999" in count if function,so I corrected it as >=1000 and <=4999.Got right counts after the correction.
  
  
  ## Results
