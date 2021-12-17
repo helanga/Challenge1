@@ -59,3 +59,10 @@ In the new sheet,create the following columns to hold the data:
 - Finally Create a line chart titled "Outcome Based on Goal" to visualize the relationship between goal- amount ranges on the x-axis and the precentage of successful,failed or canceled projects on the y-axis.
 
 ![](images/Outcomes_vs_Goals.png)
+
+### Challenge and Difficulties Encountered
+
+#### Diliverable 1
+Chalenge is how to pull month from launch date,I reffered bellow URL to group by launch date field by month.
+
+  [](https://trumpexcel.com/group-dates-in-pivot-tables-excel/)
