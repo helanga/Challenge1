@@ -97,6 +97,6 @@ Chalenge is how to pull month from launch date,I reffered bellow URL to group by
   
   This table has most recent data and it shows how out come changed according to month for recent 3 years.
   
-  ![](images/Theoter_Outcome_vs_launchD_Recent_yrs.png)
+  ![](images/Theoter_Outcome_vs_lauchD_Recent_yrs.png)
   
   
