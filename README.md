@@ -78,7 +78,7 @@ In the new sheet,create the following columns to hold the data:
   This Pivot table created based on Parent catogery "Theoter",it shows in the graph highest successful rate in months MAy to July and lowest successful rate end - begining (Jan,Dec) of year piriord.
   
   #### Conclutions
-  - There is higher posibility ti success the play in May-July time piriord.
+  - There is higher posibility to success the play in May-July time piriord.
   - Towards the end of the year posibility to success the play keep reducing.
 
 ### Conclution about Outcome based on Goals
