@@ -50,6 +50,12 @@ In the new sheet,create the following columns to hold the data:
   - 35000 to 39999
   - 40000 to 44999
   - Greater than 50000
--I used COUNTIFS() function to calaculate the "Number Successful","Number Failed" and "Number Canceled",on the "goal amount" column for the created ranges,and on the Subcatogery" column using "plays" as criteria.
+- I used COUNTIFS() function to calaculate the "Number Successful","Number Failed" and "Number Canceled",on the "goal amount" column for the created ranges,and on the Subcatogery" column using "plays" as criteria.
  
-   i.e: =COUNTIFS(kickstater!$D:$D,"<1000",kickstarter!$F:$F,"successfu[l",;kickstarter!$R:$R,"plays")
+    i.e: =COUNTIFS(kickstater!$D:$D,"<1000",kickstarter!$F:$F,"successfu[l",;kickstarter!$R:$R,"plays")
+
+- Used SUM() function to pipulate the "Total Projects" column with the number of successful,failed and canled projects for each row 
+- calculated the precentage of successful,failed and canceled projects for each row
+- Finally Create a line chart titled "Outcome Based on Goal" to visualize the relationship between goal- amount ranges on the x-axis and the precentage of successful,failed or canceled projects on the y-axis.
+
+![](images/Outcomes_vs_Goals.png)
