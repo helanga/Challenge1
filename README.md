@@ -26,7 +26,7 @@ Using the Kickstarter data set visualize campaign outcomes based on it's launch 
 -Finally created a line chart from the pivot table to visualize the relationship between outcomes and launch month.
 ![](images/Theoter_Outcomes_vs_Launch.png)
 
-### Analysis of Outcomes Based on GOals
+### Analysis of Outcomes Based on Goals
 - In the Kickstarter workbook,I created a new sheet and lebel it "Outcomes Based on Goald."
 In the new sheet,create the following columns to hold the data:
   - Goal
@@ -73,5 +73,30 @@ Chalenge is how to pull month from launch date,I reffered bellow URL to group by
  
  ## Results
  
- ### Conclutions about the Outcomes based on Launch Date
- This Pivot table created based on Parent catogery "Theoter",it shows in the graph successful rate in months MAy to July
+  ### Conclutions about the Outcomes based on Launch Date
+  This Pivot table created based on Parent catogery "Theoter",it shows in the graph successful rate in months MAy to July and lowest successful rate end - begining (Jan,Dec) of year piriord.
+  
+  #### Conclutions
+  - There is higher posibility ti success the play in May-July time piriord.
+  - Towards the end of the year posibility to success the play keep reducing.
+
+### Conclution about Outcome based on Goals
+  -If the Goal amount in range of less than 1000 and between 1000 to 4999 to successful precentage is 76% and 73% and canceled precentage is 24% and 27%.
+  
+  #### Conclution
+   we can conclude that if goal amount is low precentage of success is higher according to the this dataset.
+   
+   
+## Limitations of this dataset
+ 
+  In this crowed funding dataset only around 25% of data is for parent catogery "theoter".If there are more data on thetor catogery in this dataset we could have give more accurate analysis.
+  
+  ## Other possible tables and/or graphs that we could create
+  
+  I created another pivot table using diliverable 1 pivot chart and I filtered recent 3 years 2015,2016&2017.
+  
+  This table has most recent data and it shows how out come changed according to month for recent 3 years.
+  
+  ![](images/Theoter_Outcome_vs_launchD_Recent_yrs.png)
+  
+  
